@@ -9,5 +9,6 @@
   },
   "author": "Ryan Thorn",
   "license": "ISC",
-  "publishConfig": {"registry": "https://npm.pkg.github.com"}
+  "publishConfig": {"registry": "https://npm.pkg.github.com"},
+  "repository": "git://github.com/ryandthorn/prop-types-suppress-warnings.git"
 }
