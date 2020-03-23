@@ -1,0 +1,13 @@
+{
+  "name": "prop-types-suppress-warnings",
+  "version": "1.0.0",
+  "description": "Suppress annoying prop type warnings when running `npm test`",
+  "keywords": ["prop-types", "prop", "types", "proptypes", "warning", "warnings", "react", "node"],
+  "main": "ptsw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Thorn",
+  "license": "ISC",
+  "publishConfig": {"registry": "https://npm.pkg.github.com"}
+}
